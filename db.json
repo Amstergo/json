@@ -3,7 +3,7 @@
     "events": [
       {
         "id": 1,
-        "avatar": "https://google.com",
+        "avatar": "https://img.icons8.com/officel/2x/person-male.png",
         "speaker": "Вадим Митин, генеральный директор «Нетекс»",
         "title": "Как увеличить конверсию продающей страницы",
         "time": {
@@ -28,7 +28,7 @@
       },
       {
         "id": 2,
-        "avatar": "https://google.com",
+        "avatar": "https://img.icons8.com/officel/2x/person-male.png",
         "speaker": "Антон Малышев, Основатель Technical Human",
         "title": "Как составить эффективное коммерческое предложение",
         "time": {
