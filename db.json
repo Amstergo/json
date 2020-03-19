@@ -35,7 +35,7 @@
           "start": "12:30",
           "end": "14:00"
         },
-        "status": "active",
+        "status": "waiting",
         "questions": [
           {
             "id": 1,
