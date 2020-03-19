@@ -50,8 +50,19 @@
             "title": "Третий вопрос"
           }
         ]
+      },
+      {
+        "id": 3,
+        "avatar": "https://img.icons8.com/officel/2x/person-male.png",
+        "speaker": "",
+        "title": "Регистрация слушателей",
+        "time": {
+          "start": "9:30",
+          "end": "10:00"
+        },
+        "status": "completed",
+        "questions": []
       }
     ]
   }
 }
-
