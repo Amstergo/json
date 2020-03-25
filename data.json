@@ -1,0 +1,16 @@
+{
+  "data": {
+    "logo": "https://startuptoday.co.uk/wp-content/uploads/2013/04/my-comapny.png",
+    "colors": {
+      "colorBg": "#ED689A",
+      "colorText": "#ED689A"
+    },
+    "contacts": {
+      "address": [
+        { "text": "Бизнес-центр «ГРИНН», зал «Соловьиный»" },
+        { "text": "Курск, ул. Карла Маркса, д. 68" },
+        { "text": "9 апреля" }
+      ]
+    }
+  }
+}
